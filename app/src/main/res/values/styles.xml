@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ProyectoVideojuegosYDescuentos" parent="Theme.AppCompat.Light">
+        <!-- Cambia el color de fondo del ActionBar -->
+        <item name="colorPrimary">#EF4343</item> <!-- Rojo -->
+        <item name="colorPrimaryDark">#D01818</item> <!-- Rojo oscuro -->
+        <item name="colorAccent">#BF5064</item> <!-- Color de acento -->
+        <item name="android:statusBarColor">#D01818</item> <!-- Color rojo oscuro para la StatusBar -->
+    </style>
+</resources>
